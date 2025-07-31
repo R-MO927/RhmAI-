@@ -9,9 +9,13 @@ I enjoy building **ML models**, doing **API & Visualization**, and sharing knowl
 
 
 ##  My Projects
-|  [Movie Recommendation System](#) | Content-based, Collaborative & Hybrid Recommendation System with EDA & Visualization |
-|  [Iris Clustering Analysis](#) | K-Means, DBSCAN, and Hierarchical clustering with Outlier Analysis & Visualization |
-|   [Weather Analysis](#) | Exploratory analysis and forecasting model for weather data with visualizations and anomaly detection |
+|  [Movie Recommendation System]([#](https://www.kaggle.com/code/rahmamohamedsayd/movie-recommendation-systems-content-based-c)) | Content-based, Collaborative & Hybrid Recommendation System with EDA & Visualization |
+
+
+|  [Iris Clustering Analysis]([#](https://www.kaggle.com/code/rahmamohamedsayd/iris-dataset-cleaned-preprocessed-for-clusterin)) | K-Means, DBSCAN, and Hierarchical clustering with Outlier Analysis & Visualization |
+
+
+|   [Weather Analysis]([#](https://www.kaggle.com/code/rahmamohamedsayd/weather)) | Exploratory analysis and forecasting model for weather data with visualizations and anomaly detection |
 
 
 
